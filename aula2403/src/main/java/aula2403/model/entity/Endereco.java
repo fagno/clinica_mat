@@ -8,4 +8,5 @@ public class Endereco {
 
     String complemento;
 
+    String bairro;
 }
